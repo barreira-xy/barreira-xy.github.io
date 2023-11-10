@@ -1,6 +1,6 @@
-title: "Blog Title"
+title: "Hola!"
 author: "Daniel Barreira"
-description: ""
+description: "personal blog of daniel barreira"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
