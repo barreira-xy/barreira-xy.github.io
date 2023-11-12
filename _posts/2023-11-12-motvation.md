@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Post example"
-date:   2019-10-26 10:00:40
-blurb: "A look at an example post using Bay Jekyll theme."
+title:  "Motivation"
+date:   2023-11-12 23:00:40
+blurb: "My motivation to the blog, as a reminder to myself why I'm doing this"
 og_image: /assets/img/content/post-example/Banner.jpg
 ---
 
