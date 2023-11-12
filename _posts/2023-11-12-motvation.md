@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Motivation"
-date:   2023-11-12 23:00:40
+date:   2023-11-12 11:00:40
 blurb: "My motivation to the blog, as a reminder to myself why I'm doing this"
 og_image: /assets/img/content/post-example/Banner.jpg
 ---
 
-# Motivation
+#### Motivation
 
 Hej, Hello, Hola!
 
