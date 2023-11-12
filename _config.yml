@@ -17,7 +17,7 @@ header:
     - name: Blog
 
 footer:
-  show_powered_by: False
+  show_powered_by: True
   contact:
     - name: Email
       value: mail
